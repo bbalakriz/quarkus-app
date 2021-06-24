@@ -217,10 +217,6 @@ under the License.
            <id>maven-repo</id>
            <url>https://repo.maven.apache.org/maven2</url>
         </repository>
-	<repository>
-           <id>spring-repo</id>
-           <url>https://repo.spring.io/release/</url>
-        </repository>
       </repositories>
       <pluginRepositories>
          <pluginRepository>
